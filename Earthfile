@@ -1,5 +1,7 @@
 VERSION 0.7
 
+PROJECT earthly-technologies/earthly-test
+
 foo:
   RUN echo "HELLO WORLD!"
 
