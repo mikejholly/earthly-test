@@ -2,6 +2,8 @@ VERSION 0.7
 
 PROJECT earthly-technologies/earthly-test
 
+FROM alpine
+
 foo:
   RUN echo "HELLO WORLD!"
 
